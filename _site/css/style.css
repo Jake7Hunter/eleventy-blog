@@ -19,6 +19,11 @@ h2{
     font-size: 2em;
     text-align: center;
 }
+h3{
+    text-align: center;
+    font-size: 1em;
+    font-weight: 700;
+}
 p{
     width: 80%;
     font-weight: 400;
@@ -50,4 +55,7 @@ a{
     font-size: 1.5em;
     text-decoration: none;
     align-self: center;
+}
+.royalty li{
+    display: block;
 }
