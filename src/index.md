@@ -1,9 +1,7 @@
 ---
-title: Hello World
+title: Jake's Blog
 layout: "index.njk"
 ---
-
-hello eleventy
 
 <ul>
 
