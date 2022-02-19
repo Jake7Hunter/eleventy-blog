@@ -12,5 +12,3 @@ In my opinion, I do not believe that this conspiracy theory is true. The reason 
 
 ![Princess Diana and Prince Charles](/img/diana.jpg)
 ![Image of crowns](/img/crown.jpg)
-
--
