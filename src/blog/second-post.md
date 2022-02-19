@@ -11,5 +11,5 @@ I could hear cheering from the other golfers around the hole we were at, they co
 >
  We all laughed, my dad is funny! To this day and forever , that ball will be displayed on a mantle wherever I live!!
 
-![Person playing hockey](/img/hockey.jpg)
-![Hockey net on ice](/img/net.jpg)
+![Person playing golf](/img/golf-1.jpg)
+![Image of a golf course](/img/golf-2.jpg)
